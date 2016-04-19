@@ -1,0 +1,1 @@
+Solving programming exercise on codility.com website
